@@ -6,7 +6,7 @@
 
     <groupId>com.eliasnogueira</groupId>
     <artifactId>test-parent</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.3-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <properties>
@@ -15,10 +15,10 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
-        <junit.version>5.8.2</junit.version>
-        <assertj.version>3.22.0</assertj.version>
-        <restassrured.version>4.5.1</restassrured.version>
-        <jackson.version>2.13.1</jackson.version>
+        <junit.version>5.9.0</junit.version>
+        <assertj.version>3.23.1</assertj.version>
+        <restassrured.version>5.1.1</restassrured.version>
+        <jackson.version>2.13.3</jackson.version>
         <javafaker.version>1.0.2</javafaker.version>
     </properties>
 
