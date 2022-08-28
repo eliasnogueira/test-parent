@@ -6,6 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.0.3] - 29-08-2022
 
+### Added
+- GitHub Actions to automatically publish the library
+
 ### Changed
 - Updated the following library versions:
   - `junit.version-5.9.0`
